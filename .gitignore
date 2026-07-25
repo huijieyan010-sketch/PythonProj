@@ -10,3 +10,7 @@
 /GamePlantsVsZombies
 /.gamevenv
 /stickman_battle/__pycache__
+/ragdoll-hit/__pycache__
+*.pyc
+*.pyc
+ragdoll-hit/__pycache__/config.cpython-313.pyc
